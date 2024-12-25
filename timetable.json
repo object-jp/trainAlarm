@@ -1,0 +1,25 @@
+{
+  "stations": [
+    {
+      "id": 1,
+      "name": "Tokyo",
+      "latitude": 35.6895,
+      "longitude": 139.6917,
+      "time": "08:00"
+    },
+    {
+      "id": 2,
+      "name": "Shinagawa",
+      "latitude": 35.6285,
+      "longitude": 139.7389,
+      "time": "08:10"
+    },
+    {
+      "id": 3,
+      "name": "Yokohama",
+      "latitude": 35.4661,
+      "longitude": 139.6226,
+      "time": "08:25"
+    }
+  ]
+}
